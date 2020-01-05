@@ -1,5 +1,4 @@
--- #3035650907
--- #Xinjin He
+
 
 import System.IO
 import Control.Monad
